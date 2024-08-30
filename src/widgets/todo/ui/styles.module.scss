@@ -1,0 +1,26 @@
+.todo_item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  padding: 10px 5px;
+
+  border: 1px solid violet;
+  border-radius: 5px;
+
+  button {
+    cursor: pointer;
+    margin-right: 10px;
+  }
+}
+
+.label {
+  cursor: pointer;
+  input {
+    cursor: pointer;
+  }
+}
+
+.link {
+  color: #fff;
+}
